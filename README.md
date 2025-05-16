@@ -1,3 +1,5 @@
+To see git history please refer to the collaborative repo on which we worked as a group: https://github.com/LeoN1203/FinalProject_2025_LeonAYRAL.git
+
 # Recommender System for KuaiRec Dataset: Project Report
 
 Recommender systems have become essential in delivering personalized content across digital platforms. This report presents the development of a hybrid recommender system tailored to the KuaiRec dataset, a comprehensive collection of user interaction and content data from the Kuaishou short video platform.
@@ -354,7 +356,7 @@ Plotting AUC scores across epochs for both the `big_matrix` validation set and t
 
 This highlighted the importance of **early stopping** or **cross-dataset validation** when optimizing for generalization.
 
-![epoch_selection](https://hackmd.io/_uploads/H1wlMnNZlg.png)
+![epoch_selection](solution/epoch_selection.png)
 
 ---
 
