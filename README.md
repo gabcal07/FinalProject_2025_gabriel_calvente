@@ -2,6 +2,8 @@ To see git history please refer to the collaborative repo on which we worked as 
 
 # Recommender System for KuaiRec Dataset: Project Report
 
+To see git history please refer to the collaborative repo on which we worked as a group: https://github.com/LeoN1203/FinalProject_2025_LeonAYRAL.git
+
 Recommender systems have become essential in delivering personalized content across digital platforms. This report presents the development of a hybrid recommender system tailored to the KuaiRec dataset, a comprehensive collection of user interaction and content data from the Kuaishou short video platform.
 This is a group project with the following members:
 **Yacine BENIHADDADENE** - **Gabriel CALVENTE** - **Cédric DAMAIS** - **Léon AYRAL**
