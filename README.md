@@ -1,5 +1,3 @@
-To see git history please refer to the collaborative repo on which we worked as a group: https://github.com/LeoN1203/FinalProject_2025_LeonAYRAL.git
-
 # Recommender System for KuaiRec Dataset: Project Report
 
 To see git history please refer to the collaborative repo on which we worked as a group: https://github.com/LeoN1203/FinalProject_2025_LeonAYRAL.git
